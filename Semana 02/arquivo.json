@@ -1,0 +1,73 @@
+{
+  "pessoas" : [
+    { "nome": "Ana Silva", 
+      "endereco": "Rua das Azaleias, 72", 
+      "nacionalidade": "Brasileiro(a)", 
+      "idade": 32, 
+      "sexo": "Feminino"
+    },
+    {
+      "nome": "Bernardo Magalhães",
+      "endereco": "Rua das Rosas, 36",
+      "nacionalidade": "Brasileiro(a)",
+      "idade": 28,
+      "sexo": "Masculino"
+    },
+    {
+      "nome": "Carla Costa",
+      "endereco": "Av. das Orquídeas",
+      "nacionalidade": "Brasileiro(a)",
+      "idade": 62,
+      "sexo": "Feminino"
+    },
+    {
+      "nome": "Danilo Rodrigues",
+      "endereco": "Rua dos Cravos, 25",
+      "nacionalidade": "Brasileiro(a)",
+      "idade": 55,
+      "sexo": "Masculino"
+    },
+    {
+      "nome": "Eduardo Melo",
+      "endereco": "Av. das Bromélias, 90",
+      "nacionalidade": "Brasileiro(a)",
+      "idade": 66,
+      "sexo": "Masculino"
+    },
+    {
+      "nome": "Fabricio Guimarães",
+      "endereco": "Rua das Bougainville, 120",
+      "nacionalidade": "Brasileiro(a)",
+      "idade": 27,
+      "sexo": "Masculino"
+    },
+    {
+      "nome": "Fernanda Monteiro",
+      "endereco": "Rua dos Coqueiros, 10",
+      "nacionalidade": "Brasileiro(a)",
+      "idade": 35,
+      "sexo": "Feminino"
+    },
+    {
+      "nome": "Tulio Souza",
+      "endereco": "Rua das Lavandas, 44",
+      "nacionalidade": "Brasileiro(a)",
+      "idade": 47,
+      "sexo": "Masculino"
+    },
+    {
+      "nome": "Roberta Santos",
+      "endereco": "Rua dos Hortelãs, 15",
+      "nacionalidade": "Brasileiro(a)",
+      "idade": 50,
+      "sexo": "Feminino"
+    },
+    {
+      "nome": "Marcelo Alves",
+      "endereco": "Av. dos Ipês, 78",
+      "nacionalidade": "Brasileiro(a)",
+      "idade": 52,
+      "sexo": "Masculino"
+    }
+  ]
+}

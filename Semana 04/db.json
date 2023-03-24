@@ -1,0 +1,29 @@
+{
+  "tarefas": [
+    {
+      "id": "1",
+      "descricao": "Comprar livros",
+      "status": "Pendente"
+    },
+    {
+      "id": "2",
+      "descricao": "Ir para academia",
+      "status": "Concluída"
+    },
+    {
+      "id": "3",
+      "descricao": "Buscar presentes",
+      "status": "Concluída"
+    },
+    {
+      "id": "4",
+      "descricao": "Aniversario da sogra",
+      "status": "Pendente"
+    },
+    {
+      "id": "5",
+      "descricao": "Abastecer o carro",
+      "status": "Concluída"
+    }
+  ]
+}
